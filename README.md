@@ -4,7 +4,7 @@ A simple console-based banking system developed using Python. This project simul
 
 ---
 
-## 📌 Features
+## 📌 Features 
 
 - 🔐 Account Creation with unique Account Number & PIN generation
 - 💰 Cash Deposit & Withdrawal with balance update
